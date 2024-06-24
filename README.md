@@ -1,7 +1,5 @@
 # bar-chart-histogram-visualization
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
-# Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population
-
 This project provides code to create bar charts and histograms to visualize the distribution of categorical or continuous variables, such as the distribution of ages or genders in a population.
 
 ## Introduction
