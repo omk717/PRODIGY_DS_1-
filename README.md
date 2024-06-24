@@ -20,6 +20,9 @@ Pandas: For data manipulation and analysis.
 Matplotlib: For creating static, interactive, and animated visualizations.
 Seaborn: For making statistical graphics and enhancing Matplotlib's capabilities.
 
+## Data
+The dataset can be found on Kaggle. Make sure to download it and place it in the project directory.
+
 ## Conclusion
 This project serves as an introduction to data visualization techniques, specifically focusing on the distribution of variables. By creating and analyzing bar charts and histograms, one can gain valuable insights into the data, which can inform further analysis or decision-making processes.
 
